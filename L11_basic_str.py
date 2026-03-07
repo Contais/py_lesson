@@ -1,4 +1,5 @@
 s = "Eason Chan"
+print(type(s))
 
 # get
 # 正向索引：从0开始
